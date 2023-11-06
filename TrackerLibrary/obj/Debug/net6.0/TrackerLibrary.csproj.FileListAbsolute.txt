@@ -1,0 +1,12 @@
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.deps.json
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.dll
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\bin\Debug\net6.0\TrackerLibrary.pdb
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.AssemblyReference.cache
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfoInputs.cache
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.AssemblyInfo.cs
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.csproj.CoreCompileInputs.cache
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.dll
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\refint\TrackerLibrary.dll
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\TrackerLibrary.pdb
+E:\Thuan\Code_C#\freeCodeCamp\TournamentTracker\TrackerLibrary\obj\Debug\net6.0\ref\TrackerLibrary.dll
