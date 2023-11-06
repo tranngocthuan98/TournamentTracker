@@ -1,0 +1,12 @@
+D:\code_c#\github\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+D:\code_c#\github\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+D:\code_c#\github\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TouramentViewerForm.resources
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTouramentForm.resources

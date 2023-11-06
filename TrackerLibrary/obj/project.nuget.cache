@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l4gQKGeY1W+zAv5e3KnNWmCeAUbd3A+YMT9dChtcP4DI9+5KmcFPvJouaYMOQk0no5XJLbk89kJWbEJ84aiggA==",
+  "dgSpecHash": "HYSot9wx2xO9Br5RjoObVUlS3Y/8IENOWfik11yktNHooDTMgq/U/COjhHN73w70winuH5+1zeF9gOMBI9L/qQ==",
   "success": true,
-  "projectFilePath": "E:\\Thuan\\Code_C#\\freeCodeCamp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+  "projectFilePath": "D:\\code_c#\\github\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

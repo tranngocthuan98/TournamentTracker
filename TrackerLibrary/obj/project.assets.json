@@ -8,19 +8,24 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\candd\\.nuget\\packages\\": {}
+    "C:\\Users\\ThuanLT\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Thuan\\Code_C#\\freeCodeCamp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "D:\\code_c#\\github\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "E:\\Thuan\\Code_C#\\freeCodeCamp\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
-      "packagesPath": "C:\\Users\\candd\\.nuget\\packages\\",
-      "outputPath": "E:\\Thuan\\Code_C#\\freeCodeCamp\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "projectPath": "D:\\code_c#\\github\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "packagesPath": "C:\\Users\\ThuanLT\\.nuget\\packages\\",
+      "outputPath": "D:\\code_c#\\github\\TournamentTracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\candd\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ThuanLT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
