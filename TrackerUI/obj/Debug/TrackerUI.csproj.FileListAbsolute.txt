@@ -10,3 +10,6 @@ D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCom
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTouramentForm.resources
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateFrizeForm.resources
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
