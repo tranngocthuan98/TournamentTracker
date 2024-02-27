@@ -13,3 +13,17 @@ D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTouramen
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateFrizeForm.resources
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
 D:\code_c#\github\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+D:\thuan\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+D:\thuan\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+D:\thuan\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateFrizeForm.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTeamForm.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreateTouramentForm.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TouramentViewerForm.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+D:\thuan\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
